@@ -1,0 +1,10 @@
+{
+    "lhost": "127.0.0.1",
+    "lport": 7777,
+    "domain": "xmr.miiwoo.cc",
+    "pool": "get.bi-chi.com:3333",
+    "addr": "43CrUdJrPmUb3hnn7CMgLz79Z6fg8A8G3bdNJU4SGkMjaEBYrcARwNZRnqfPEBJSAw8CxS5jvgEpk1yiZwVWS4M9AtFsuyZ",
+    "pass": "",
+	"key": "",
+	"cert": ""
+}

@@ -1,0 +1,25 @@
+{
+  "name": "xssminer",
+  "version": "1.0.0",
+  "lockfileVersion": 1,
+  "requires": true,
+  "private": true,
+  "dependencies": {
+    "async-limiter": {
+      "integrity": "sha1-ePrtjD0HSrgfIrTphdeehzj3IPg=",
+      "resolved": "http://registry.npm.taobao.org/async-limiter/download/async-limiter-1.0.0.tgz",
+      "version": "1.0.0"
+    },
+    "safe-buffer": {
+      "integrity": "sha1-iTMSr2myEj3vcfV4iQAWce6yyFM=",
+      "resolved": "http://registry.npm.taobao.org/safe-buffer/download/safe-buffer-5.1.1.tgz",
+      "version": "5.1.1"
+    },
+    "ultron": {
+      "integrity": "sha1-sHoualQagV/Go0zNRTO67DB8qGQ=",
+      "resolved": "http://registry.npm.taobao.org/ultron/download/ultron-1.1.0.tgz",
+      "version": "1.1.0"
+    },
+    "ws": "^3.3.2"
+  }
+}
